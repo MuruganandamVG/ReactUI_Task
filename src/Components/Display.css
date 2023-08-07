@@ -1,0 +1,53 @@
+.date_class p {
+  padding-left: 25px;
+  font-size: 14px;
+  color: #9f9f9f;
+}
+
+.weeklyIcon_class {
+  margin-left: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.chartNumber_class {
+  width: 70%;
+  margin-left: 25px;
+  display: flex;
+  justify-content: space-between;
+}
+.chartNumber_class span {
+  color: blue;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.chartIssue_class {
+  width: 82%;
+  margin-left: 25px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.chartIssue_class span {
+  color: #46376f;
+  font-weight: 500;
+  font-size: 12px;
+}
+.chartMessage {
+  margin-top: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.chartMessage_icon {
+  color: #fe8c83;
+  font-size: 20px;
+  margin-right: 10px;
+}
+.chartMessage_text {
+  margin-left: 5px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #000000;
+}
